@@ -14,7 +14,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://multi-agent-gules.vercel.app"
+      "https://multi-agent-dj41.vercel.app"
     ],
     credentials: true,
   })
